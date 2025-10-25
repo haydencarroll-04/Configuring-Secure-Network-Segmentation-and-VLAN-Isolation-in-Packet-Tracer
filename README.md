@@ -53,7 +53,3 @@ The setup improves both security and network management efficiency
 - Inter-network connectivity established via router  
 - Dynamic IP assignment functioning for all 14 DHCP nodes
 
----
-
-## 📂 Repository Structure
-
