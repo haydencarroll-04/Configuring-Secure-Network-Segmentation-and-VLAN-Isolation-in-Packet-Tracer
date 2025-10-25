@@ -53,3 +53,4 @@ The setup improves both security and network management efficiency
 - Inter-network connectivity established via router  
 - Dynamic IP assignment functioning for all 14 DHCP nodes
 
+<img width="3699" height="1774" alt="Screenshot 2025-10-25 at 4 50 03 PM" src="https://github.com/user-attachments/assets/a8cdac3a-afe0-4801-ba8f-76b442f9d0cf" />
